@@ -64,25 +64,33 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
 
+<img width="1280" height="563" alt="image" src="https://github.com/user-attachments/assets/e31e368a-ee27-4bf5-b54e-c01591811548" />
 
   **MODEL GRAPH:**
+<img width="1280" height="573" alt="image" src="https://github.com/user-attachments/assets/84c06f9b-ddff-4997-9517-ef629c934b26" />
 
 
   **TABULATION:**
- 
+ <img width="1182" height="740" alt="image" src="https://github.com/user-attachments/assets/8f60a104-f0df-43dc-90c9-20c8c283b539" />
 
-**MODEL CALCULATION:**
+
+<img width="1280" height="859" alt="image" src="https://github.com/user-attachments/assets/ff44d78c-5627-4f63-8234-46ed621cfaaa" />
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
 
+<img width="1124" height="618" alt="image" src="https://github.com/user-attachments/assets/de3be72b-5579-47e7-a641-dec7b5a39b83" />
 
   **MODEL GRAPH:**
 
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e35617d-dd81-40c0-8020-aa0ec30d177f" />
+
   **TABULATION:**
 
- 
+
+ <img width="1264" height="786" alt="image" src="https://github.com/user-attachments/assets/c48a0ba1-37f5-4183-a1eb-28c5c2b3affe" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +103,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+
+  <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1661e698-e54c-45a8-b77c-438e2a275d2f" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/480652c1-688e-4566-a2a4-2e3d685172da" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
