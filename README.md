@@ -69,6 +69,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
   **MODEL GRAPH:**
 <img width="1280" height="573" alt="image" src="https://github.com/user-attachments/assets/84c06f9b-ddff-4997-9517-ef629c934b26" />
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ddbffe9e-fede-4176-a087-9aefa8533186" />
 
   **TABULATION:**
  <img width="1182" height="740" alt="image" src="https://github.com/user-attachments/assets/8f60a104-f0df-43dc-90c9-20c8c283b539" />
@@ -83,8 +84,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
   **MODEL GRAPH:**
 
-
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e35617d-dd81-40c0-8020-aa0ec30d177f" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/cfcdb113-88fd-445c-a1e0-98dc67884ca0" />
+
 
   **TABULATION:**
 
